@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Obsidian workspace and local trash
+.obsidian/
+.trash/
