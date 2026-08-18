@@ -4,3 +4,6 @@
 # Obsidian workspace and local trash
 .obsidian/
 .trash/
+
+# Local staging area for materials under review
+tmp/
