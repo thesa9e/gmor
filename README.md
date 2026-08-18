@@ -30,6 +30,21 @@ A coherent account of the model, its current interpretation, and the context
 needed to approach it are published on the [project website](https://thesa9e.com).
 The author's internal working materials are kept separately.
 
+## How to read the model
+
+The diagram is the primary artifact. Before interpreting it, use the official
+authorial reading frame appropriate to the reader:
+
+- [reading frame for a human reader](guides/reality-unfolding.human.en.md);
+- [interpretation frame for a generative model](guides/reality-unfolding.ai.en.md).
+
+The frames define how to read the diagram without silently importing concepts and
+relations that it has not yet made available. They constrain the process of
+interpretation, not its conclusion, and are not additional ontological claims.
+
+The complete list of published materials, their versions, status, language, and
+purpose is maintained in the [artifact index](ARTIFACTS.md).
+
 ## Status
 
 The model is being made public gradually.
