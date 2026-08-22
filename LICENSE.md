@@ -2,7 +2,7 @@
 
 **English** | [Русский](LICENSE.ru.md)
 
-Copyright (c) Dmitriy Soldatenkov.
+Copyright (c) Dmitrii Soldatenkov.
 
 All rights reserved unless explicitly stated otherwise.
 

@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use the model or its artifacts, please cite this repository using the metadata below."
+title: "Generative Model of Reality (GMOR)"
+authors:
+  - given-names: Dmitrii
+    family-names: Soldatenkov
+    alias: "Дмитрий Солдатенков"
+version: 0.1.0
+# CFF 1.2 describes repository-level works as software or datasets. The
+# preferred citation below identifies GMOR itself as a generic work.
+type: software
+repository-code: "https://github.com/thesa9e/gmor"
+url: "https://thesa9e.com"
+abstract: >-
+  A versioned public repository of conceptual and visual research artifacts
+  for the Generative Model of Reality (GMOR), an original model of how reality
+  unfolds through constraints and actualization.
+keywords:
+  - generative model of reality
+  - GMOR
+  - ontology
+  - conceptual model
+  - reality unfolding
+  - actualization
+  - consciousness
+preferred-citation:
+  type: generic
+  title: "Generative Model of Reality (GMOR)"
+  authors:
+    - given-names: Dmitrii
+      family-names: Soldatenkov
+      alias: "Дмитрий Солдатенков"
+  version: 0.1.0
+  url: "https://github.com/thesa9e/gmor"

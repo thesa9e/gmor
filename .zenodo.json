@@ -1,0 +1,23 @@
+{
+  "title": "Generative Model of Reality (GMOR)",
+  "description": "<p>A versioned public repository of conceptual and visual research artifacts for the Generative Model of Reality (GMOR), an original model of how reality unfolds through constraints and actualization.</p><p>This release includes the reality unfolding diagram in English and Russian, official authorial reading frames for human readers and generative models, and the repository's supporting documentation. The current account and interpretive context are published at <a href=\"https://thesa9e.com\">thesa9e.com</a> and <a href=\"https://thesa9e.ru\">thesa9e.ru</a>.</p><p>The full terms governing the archived files are provided in <code>LICENSE.md</code> and <code>LICENSE.ru.md</code> included in this release.</p>",
+  "creators": [
+    {
+      "name": "Soldatenkov, Dmitrii"
+    }
+  ],
+  "notes": "Author's name in Russian: Дмитрий Солдатенков.",
+  "version": "0.1.0",
+  "upload_type": "other",
+  "access_right": "open",
+  "license": "zenodo-freetoread-1.0",
+  "keywords": [
+    "generative model of reality",
+    "GMOR",
+    "ontology",
+    "conceptual model",
+    "reality unfolding",
+    "actualization",
+    "consciousness"
+  ]
+}
