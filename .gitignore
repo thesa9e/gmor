@@ -5,5 +5,8 @@
 .obsidian/
 .trash/
 
+# IDE project settings
+.idea/
+
 # Local staging area for materials under review
 tmp/
