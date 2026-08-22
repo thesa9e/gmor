@@ -10,5 +10,5 @@
 | Артефакт | Назначение | Английский | Русский | Версия и статус |
 | --- | --- | --- | --- | --- |
 | Диаграмма разворачивания реальности | Основное визуальное представление разворачивания реальности | [SVG](diagrams/reality-unfolding.en.svg) | [SVG](diagrams/reality-unfolding.ru.svg) | [`v0.1.0`](https://github.com/thesa9e/gmor/tree/reality-unfolding-v0.1.0) |
-| Рамка чтения для человека | Официальные авторские указания по чтению диаграммы без внесения недоступных понятий | [Markdown](guides/reality-unfolding.human.en.md) | [Markdown](guides/reality-unfolding.human.ru.md) | Рабочая версия `0.1.0` |
-| Рамка интерпретации для генеративной модели | Официальные авторские инструкции для генеративной модели, интерпретирующей диаграмму | [Markdown](guides/reality-unfolding.ai.en.md) | [Markdown](guides/reality-unfolding.ai.ru.md) | Рабочая версия `0.1.0` |
+| Рамка чтения для человека | Официальные авторские указания по чтению диаграммы без внесения недоступных понятий | [Markdown](guides/reality-unfolding.human.en.md) | [Markdown](guides/reality-unfolding.human.ru.md) | Рабочая версия `0.1.1` |
+| Рамка интерпретации для генеративной модели | Официальные авторские инструкции для генеративной модели, интерпретирующей диаграмму | [Markdown](guides/reality-unfolding.ai.en.md) | [Markdown](guides/reality-unfolding.ai.ru.md) | Рабочая версия `0.1.1` |
